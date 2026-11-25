@@ -169,7 +169,7 @@ const FloatingCard = () => {
 
         {/* CTA Button */}
         <a 
-          href="https://linkthem.net/?offer_id=1177&aff_id=14999&source=target"
+          href="https://giftclick.org/?offer_id=1177&aff_id=172759&source=Target"
           target="_blank"
           rel="noopener noreferrer"
           className="w-full bg-primary text-primary-foreground py-3.5 sm:py-4 px-4 sm:px-6 rounded-xl font-semibold text-sm sm:text-base flex items-center justify-center gap-2 shadow-button hover:opacity-90 transition-all duration-300 animate-pulse-glow animate-fade-in-up-delay-4 relative z-10 group whitespace-nowrap"
